@@ -1,0 +1,4 @@
+/home/lynn/yolo/yolov5/build/CMakeFiles/rebuild_cache.dir
+/home/lynn/yolo/yolov5/build/CMakeFiles/edit_cache.dir
+/home/lynn/yolo/yolov5/build/CMakeFiles/main.dir
+/home/lynn/yolo/yolov5/build/CMakeFiles/yolov5.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libyolov5.so -o ../libyolov5.so CMakeFiles/yolov5.dir/yolo.cpp.o 
